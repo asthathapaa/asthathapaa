@@ -2,9 +2,10 @@
 <h3 align="center">An aspiring Software Engineering student 🌸🌿 who isn't afraid to learn anything new, under the sun that doesn't kill her 🌟</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952nnc534ioddeqekw8w3l0m8ou72gc55e4p34jhqnm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asthathapaa&label=Profile%20views&color=0e75b6&style=flat" alt="asthathapaa" /> </p>
 
 
-- 🔭 I’m currently working on Traffic Congestion Application :**Traswift**
+- 🔭 I’m currently working on Traffic Congestion Application 
 
 - 💬 Interested fields: **python, AI/ML, React, Data Science**
 
