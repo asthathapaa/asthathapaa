@@ -1,5 +1,5 @@
 <h1 align="center">Namaste, I'm Astha Thapa </h1>
-<h3 align="center"> Software Engineering student🌿 who isn't afraid to learn anything new, under the sun that doesn't kill her!!!</h3>
+<h3 align="center"> Student who isn't afraid to learn anything new, under the sun that doesn't kill her!!!</h3>
 
 ---
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952nnc534ioddeqekw8w3l0m8ou72gc55e4p34jhqnm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
