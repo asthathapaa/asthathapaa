@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952nnc534ioddeqekw8w3l0m8ou72gc55e4p34jhqnm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+  <img align="right" alt="coding" width="300" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952nnc534ioddeqekw8w3l0m8ou72gc55e4p34jhqnm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=asthathapaa&label=Profile%20views&color=0e75b6&style=flat)
   
@@ -28,13 +28,6 @@
 
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  
-![Astha's GitHub stats](https://github-readme-stats.vercel.app/api?username=asthathapaa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asthathapaa&layout=compact&theme=radical)
-
-</div>
 
 ### 🤝 Connect With Me
 <div align="center">
