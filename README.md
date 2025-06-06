@@ -1,21 +1,49 @@
-<h1 align="center">Namaste, I'm Astha Thapa </h1>
+<h1 align="center">Namaste 🙏, I'm Astha Thapa </h1>
 <h3 align="center"> Student who isn't afraid to learn anything new, under the sun that doesn't kill her!!!</h3>
 
 ---
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952nnc534ioddeqekw8w3l0m8ou72gc55e4p34jhqnm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asthathapaa&label=Profile%20views&color=0e75b6&style=flat" alt="asthathapaa" /> </p>
 
+<div align="center">
+  <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952nnc534ioddeqekw8w3l0m8ou72gc55e4p34jhqnm&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=asthathapaa&label=Profile%20views&color=0e75b6&style=flat)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=asthathapaa&theme=radical&border_radius=5)](https://git.io/streak-stats)
+</div>
 
+### 🌟 About Me
+- 🔭 Currently exploring the vast universe of tech
+- 🌱 Learning something new every day
+- ⚡ Fun fact: I paint whenever I'm humbled by the vastness!!!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.kaggle.com/asthavthapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="astha thapa" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/astha-thapa-19b518296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="astha thapa" height="30" width="40" /></a>
-<a href="https://instagram.com/_asthathapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_asthathapaa" height="30" width="40" /></a>
-</p>
+### 🚀 Tech Stack
+<div align="center">
+  
+| Category       | Technologies                                                                 |
+|----------------|------------------------------------------------------------------------------|
+| **Languages**  | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Web**        | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |
+| **Data**       | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) |
+| **Tools**      | ![Matlab](https://img.shields.io/badge/Matlab-%230076A8.svg?style=flat&logo=mathworks&logoColor=white) ![CanvasJS](https://img.shields.io/badge/CanvasJS-%23000000.svg?style=flat&logo=canvasjs&logoColor=white) |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
+### 📊 GitHub Stats
+<div align="center">
+  
+![Astha's GitHub stats](https://github-readme-stats.vercel.app/api?username=asthathapaa&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asthathapaa&layout=compact&theme=radical)
 
+</div>
+
+### 🤝 Connect With Me
+<div align="center">
+  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/asthavthapa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astha-thapa-19b518296/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_asthathapa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thapaastha30@gmail.com)
+[![College Email](https://img.shields.io/badge/College_Mail-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astha.221707@ncit.edu.np)
+
+</div>
 
