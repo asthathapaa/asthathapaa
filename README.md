@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏, I'm Astha Thapa </h1>
-<h3 align="center"> Student who isn't afraid to learn anything new, under the sun that doesn't kill her!!!</h3>
+<!-- <h3 align="center"> Student who isn't afraid to learn anything new, under the sun that doesn't kill her!!!</h3> -->
 
 ---
   ![Profile Views](https://komarev.com/ghpvc/?username=asthathapaa&label=Profile%20views&color=0e75b6&style=flat)
