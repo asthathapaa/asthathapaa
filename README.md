@@ -11,9 +11,10 @@
 </div>
 
 ### 🌟 About Me
-- 🔭 Currently exploring the vast universe of tech
-- 🌱 Learning something new every day
-- ⚡ Fun fact: I paint whenever I'm humbled by the vastness!!!
+-  Currently exploring the vast universe of tech
+-  I foresee myself as creative, curious and artistic person with huge interest on designing + researching
+-  Goal: To Learn something new every day
+-  Fun fact: I paint whenever I'm humbled by the vastness!!!
 
 ### 🚀 Tech Stack
 <div align="center">
