@@ -10,13 +10,13 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=asthathapaa&theme=radical&border_radius=5)](https://git.io/streak-stats)
 </div>
 
-### 🌟 About Me
+###  About Me
 -  Currently exploring the vast universe of tech
--  I foresee myself as creative, curious and artistic person with huge interest on designing + researching
+-  I foresee myself as creative, curious and artistic person with huge interest on testing, designing + researching
 -  Goal: To Learn something new every day
 -  Fun fact: I paint whenever I'm humbled by the vastness!!!
 
-### 🚀 Tech Stack
+###  Tech Stack
 <div align="center">
   
 | Category       | Technologies                                                                 |
