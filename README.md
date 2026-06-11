@@ -15,6 +15,7 @@
 -  I foresee myself as creative, curious and artistic person with huge interest on testing, designing + researching
 -  Goal: To Learn something new every day
 -  Fun fact: I paint whenever I'm humbled by the vastness!!!
+-  Portfolio: [asthathapa1.com.np](https://www.asthathapa1.com.np)
 
 ### Tech Stack
 
